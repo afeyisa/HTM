@@ -25,8 +25,14 @@ A modern Computerised Maintenance Management System (CMMS) for vascular medical 
 
 #### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd HTM
+git clone https://github.com/tsegayetadele255/HTM
+cd ./HTM
+```
+## or for ssh
+```bash
+git clone git@github.com:tsegayetadele255/HTM.git
+cd ./HTM
+```HTM
 ```
 
 #### 2. Install Dependencies
